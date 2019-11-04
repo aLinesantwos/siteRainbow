@@ -1,2 +1,0 @@
-# siteRainbow
-Created with CodeSandbox
